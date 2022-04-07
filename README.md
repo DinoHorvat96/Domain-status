@@ -1,1 +1,1 @@
-Domain-status
+Java program to determine whether certain domains are up or down & their status message. It uses threads to check multiple domains at once.
